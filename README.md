@@ -111,18 +111,11 @@ D:\Langchain
 - `examples/sql.pdf`
 - `examples/sql.md`
 
-特点：
-
-- 更适合作为 LangChain 入门主线
-- 示例数据集中在 `examples/`
-- 当前验证里这套最稳定
-
 ### 2. `02_bilibili_langchain_bailian`
 
 来源：
 
 - B 站教程：[LangChain 综合复现相关视频](https://www.bilibili.com/video/BV1ZDo5YWE7e/?spm_id_from=333.1387.favlist.content.click)
-- 原始整理来源：`D:\Agent\01-Langchain\00-LangChain综合复现-百炼版.ipynb`
 
 当前保留内容：
 
@@ -133,12 +126,6 @@ D:\Langchain
 - `txt/faq-7923.txt`
 - `txt/test.html`
 - `pdf/2312.04005.pdf`
-
-特点：
-
-- 更像一份综合整理版 Notebook
-- 当前数据文件是够的
-- 但 Notebook 本身还存在 `make_embeddings` 缺失问题
 
 ### 3. `03_heima_rag_agent`
 
@@ -169,12 +156,6 @@ D:\Langchain
 - `03_RAG项目案例/data/尺码推荐.txt`
 - `03_RAG项目案例/data/洗涤养护.txt`
 - `03_RAG项目案例/data/颜色选择.txt`
-
-特点：
-
-- 内容最接近 RAG 项目和案例落地
-- 除 Notebook 外，还依赖同目录脚本和 `data/`
-- 对 `DASHSCOPE_API_KEY`、Ollama、streamlit 更敏感
 
 ## Notebook 命名说明
 
