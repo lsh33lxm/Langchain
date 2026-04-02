@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local vector store / notebook cache
+cache/
+*.sqlite3
+
+# Environment and editor noise
+.env
+.DS_Store
+Thumbs.db
